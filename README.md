@@ -6,7 +6,8 @@
 <div align="left">
   <img height="200" src="https://github.com/Nataliaxo05/Nataliaxo05/blob/main/462581207_1253716435898578_1165912671229200160_n.jpg"  />
 </div>
-### 
+
+###
 
 [![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nataliaxo05&show_icons=true&theme=radical)](https://github.com/Nataliaxo05/github-readme-stats)
 
