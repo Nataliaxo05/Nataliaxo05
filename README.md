@@ -2,6 +2,7 @@
 ###
 
 <p>Just a sudent of cybersecurity who likes to ride horses in her free time</p>
+<p>Link to my [page](https://nataliaxo05.github.io)</p>
 
 <div align="left">
   <img height="200" src="https://github.com/Nataliaxo05/Nataliaxo05/blob/main/462581207_1253716435898578_1165912671229200160_n.jpg"  />
