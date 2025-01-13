@@ -4,6 +4,9 @@
 <p>
 </p>
 <a href="https://paperswithcode.com/paper/latentsync-audio-conditioned-latent-diffusion">Link to LatentSync on Papers with code</a>
+<p>
+</p>
+<a href="https://github.com/bytedance/LatentSync">Link to repo LatentSync</a>
 
 ###
 
