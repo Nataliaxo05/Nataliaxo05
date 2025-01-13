@@ -1,6 +1,9 @@
 ## Hii, I'm <a href="https://github.com/Nataliaxo05" target="_blank">Natalia</a>!
 ###
 <a href="https://nataliaxo05.github.io">Link to my page</a>
+<p>
+</p>
+<a href="https://paperswithcode.com/paper/latentsync-audio-conditioned-latent-diffusion">Link to LatentSync on Papers with code</a>
 
 ###
 
